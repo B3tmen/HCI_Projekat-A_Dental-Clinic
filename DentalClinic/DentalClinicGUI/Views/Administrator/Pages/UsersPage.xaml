@@ -1,0 +1,148 @@
+﻿<Page x:Class="DentalClinicGUI.Views.Administrator.Pages.UsersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DentalClinicGUI.Views.Administrator.Pages"
+      xmlns:fa5="http://schemas.fontawesome.com/icons/"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="UsersPage" FontFamily="{DynamicResource AppFontFamily}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="asd" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{DynamicResource UsersPageTitle}" FontSize="20" Foreground="{DynamicResource TextColor}"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Background="{DynamicResource BackgroundColor}" Margin="10,10,0,0" Width="Auto">
+            <fa5:ImageAwesome Height="15" Icon="Solid_Search" Foreground="#2980b9" Margin="10,0,0,0"/>
+            <TextBox Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" materialDesign:HintAssist.Hint="{DynamicResource SearchPlaceholderText}" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"
+        Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Right">
+            <Button Margin="0,0,10,0" Width="Auto" HorizontalAlignment="Right" Command="{Binding RefreshCommand}"
+    Foreground="{DynamicResource TextColor}" Background="{DynamicResource ButtonBackgroundColor}" BorderBrush="#bdc3c7">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <fa5:ImageAwesome Height="20" Margin="0,0,10,0" Icon="Solid_Sync" Foreground="{DynamicResource IconForegroundColor}"/>
+                        <TextBlock Text="{DynamicResource RefreshButtonText}" ></TextBlock>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+
+            <Button Grid.Row="1" Grid.Column="2" Margin="0,0,10,0" Width="Auto" HorizontalAlignment="Right" Command="{Binding ShowAddUserCommand}"
+Foreground="{DynamicResource TextColor}" Background="{DynamicResource ButtonBackgroundColor}" BorderBrush="#bdc3c7">
+                <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <fa5:ImageAwesome Height="20" Margin="0,0,10,0" Icon="Solid_UserPlus" Foreground="{DynamicResource IconForegroundColor}"/>
+                        <TextBlock Text="{DynamicResource AddUserButtonText}" ></TextBlock>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+        </StackPanel>
+
+        
+
+        <DataGrid Grid.Row="2" Grid.ColumnSpan="3" ItemsSource="{Binding UsersCollection}"  Margin="10" Width="Auto" AutoGenerateColumns="False" IsReadOnly="True" 
+          Background="{DynamicResource TableBackgroundColor}" BorderBrush="{DynamicResource TableBorderBrushColor}" Foreground="{DynamicResource TextColor}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="Auto" Binding="{Binding UserId}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource UserIdTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding FirstName}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource UserFirstNameTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding LastName}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource UserLastNameTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding Email}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource UserEmailTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding Role}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource UserRoleTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTemplateColumn Width="Auto">
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Width="Auto" Text="{DynamicResource UserIsActiveTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <!-- Toggle active/inactive   Command="{Binding DataContext.ToggleActiveStatusCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}" CommandParameter="{Binding}" -->
+                                <ToggleButton Style="{StaticResource MaterialDesignSwitchToggleButton}" ToolTip="Active status" IsChecked="{Binding IsActive}" Tag="{Binding}" Click="ToggleButton_Click"
+                                              >
+                                    <materialDesign:ToggleButtonAssist.SwitchTrackOnBackground>
+                                        <SolidColorBrush Color="Green" />
+                                    </materialDesign:ToggleButtonAssist.SwitchTrackOnBackground>
+                                    <materialDesign:ToggleButtonAssist.SwitchTrackOffBackground>
+                                        <SolidColorBrush Color="Red" />
+                                    </materialDesign:ToggleButtonAssist.SwitchTrackOffBackground>
+                                </ToggleButton>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Update Column -->
+                <DataGridTemplateColumn Width="Auto">
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Width="Auto" Text="{DynamicResource UserUpdateTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <!-- Update Button, we have to bind it correctly to the Window's DataContext.
+                                If ShowUpdateUserCommand is in the parent view model - which it is - (e.g, currently is in the DataContext of the DataGrid), 
+                                we need to use a RelativeSource binding to access it -->
+                                <Button Command="{Binding DataContext.ShowUpdateUserCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}" 
+                                        Background="Transparent" BorderBrush="Transparent" CommandParameter="{Binding}">
+                                    <fa5:FontAwesome Icon="Solid_PencilAlt" Foreground="Cyan" />
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

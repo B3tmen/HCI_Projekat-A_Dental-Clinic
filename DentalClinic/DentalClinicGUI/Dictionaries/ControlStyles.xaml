@@ -1,0 +1,47 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+
+    <!-- Global style for DataGridRow -->
+    <Style TargetType="DataGridRow" x:Name="CustomDataGridStyle">
+        <Setter Property="Background" Value="{DynamicResource TableBackgroundColor}"/>
+        <!-- Default background -->
+        <Setter Property="Foreground" Value="{DynamicResource TextColor}"/>
+        <!-- Default foreground -->
+        <Style.Triggers>
+            <!-- Trigger for when the row is selected -->
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="{DynamicResource TableRowHoverColor}"/>
+                <!-- Selected row background -->
+            </Trigger>
+
+            <!--<Trigger Property="IsEditing" Value="True">
+            <Setter Property="Background" Value="Blue"/>
+        </Trigger>-->
+        </Style.Triggers>
+    </Style>
+
+
+    <!-- Default ComboBoxItem Style -->
+    <Style TargetType="ComboBoxItem" x:Key="CustomComboBoxItemStyle">
+        <!-- Default Background and Foreground -->
+        <Setter Property="Background" Value="{DynamicResource ComboBoxItemBackgroundColor}" />
+        <Setter Property="Foreground" Value="{DynamicResource TextColor}" />
+        <Setter Property="BorderThickness" Value="0" />
+        <Setter Property="Padding" Value="8.5" />
+        <Setter Property="FontSize" Value="15" />
+        <Setter Property="HorizontalContentAlignment" Value="Left" />
+
+        <!-- Hover Effects -->
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="{DynamicResource ComboBoxItemHoverColor}" />
+                <Setter Property="Foreground" Value="{DynamicResource ComboBoxItemHoverTextColor}" />
+            </Trigger>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="{DynamicResource ComboBoxItemSelectedBackgroundColor}" />
+                <Setter Property="Foreground" Value="{DynamicResource ComboBoxItemSelectedTextColor}" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>

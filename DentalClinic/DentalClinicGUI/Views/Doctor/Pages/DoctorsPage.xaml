@@ -1,0 +1,118 @@
+﻿<Page x:Class="DentalClinicGUI.Views.Doctor.Pages.DoctorsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:fa5="http://schemas.fontawesome.com/icons/"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:DentalClinicGUI.Views.Doctor.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DoctorsPage" FontFamily="{DynamicResource AppFontFamily}">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{DynamicResource DoctorsPageTitle}" FontSize="20" Foreground="{DynamicResource TextColor}"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Background="{DynamicResource BackgroundColor}" Margin="10,10,0,0" Width="Auto">
+            <fa5:ImageAwesome Height="15" Icon="Solid_Search" Foreground="#2980b9" Margin="10,0,0,0"/>
+            <TextBox Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" materialDesign:HintAssist.Hint="{DynamicResource SearchPlaceholderText}" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"
+             Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="10,0,10,0" Orientation="Horizontal">
+            <fa5:ImageAwesome Height="15" Icon="Solid_UserMd" Foreground="#2980b9" Margin="10,0,0,0"/>
+            <TextBlock  Width="Auto" Text="{DynamicResource TotalDoctorsTextBlock}" VerticalAlignment="Center" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}"/>
+            <TextBlock  Width="100" Text="{Binding DoctorsCount}" VerticalAlignment="Center" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}"/>
+        </StackPanel>
+
+
+        <DataGrid Grid.Row="2" Grid.ColumnSpan="3" Margin="10 10 10 10" Width="Auto" ItemsSource="{Binding DoctorsCollection}" AutoGenerateColumns="False" IsReadOnly="True" 
+                  Background="{DynamicResource TableBackgroundColor}" BorderBrush="{DynamicResource TableBorderBrushColor}" Foreground="{DynamicResource TextColor}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="Auto" Binding="{Binding UserId}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorIdTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding FirstName}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorFirstNameTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding LastName}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorLastNameTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding Specialization}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorSpecializationTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+                
+                <DataGridTextColumn Width="Auto" Binding="{Binding PhoneNumber}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorPhoneNumberTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+                
+                <DataGridTextColumn Width="Auto" Binding="{Binding Email}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorEmailTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+                
+                <DataGridTextColumn Width="Auto" Binding="{Binding Gender}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource DoctorGenderTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+            
+            
+            <!-- Style to set ContextMenu on each row -->
+            <!--<DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Setter Property="ContextMenu">
+                        <Setter.Value>
+                            <ContextMenu>
+                                <MenuItem Header="Edit" />
+                                <MenuItem Header="Delete" />
+                            </ContextMenu>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </DataGrid.RowStyle>-->
+
+        </DataGrid>
+    </Grid>
+</Page>

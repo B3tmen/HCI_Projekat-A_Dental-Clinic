@@ -1,0 +1,57 @@
+﻿<Page x:Class="DentalClinicGUI.Views.Doctor.Pages.DashboardPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:fa5="http://schemas.fontawesome.com/icons/"
+      xmlns:local="clr-namespace:DentalClinicGUI.Views.Doctor.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DashboardPage" FontFamily="{DynamicResource AppFontFamily}">
+
+    <Grid Background="{DynamicResource BackgroundColor}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <TextBlock Text="{DynamicResource DashboardButtonText}" Foreground="{DynamicResource TextColor}" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25"></TextBlock>
+        <WrapPanel Grid.Row="1" Height="Auto" Margin="10" >
+
+            <StackPanel Orientation="Horizontal" Height="50" Width="300" Background="#55efc4" Margin="20 20 0 0">
+                <fa5:ImageAwesome Margin="10,0,0,10" Height="25" Icon="Regular_CalendarAlt" Foreground="#16a085" />
+                <StackPanel Margin="50 0 0 0" Width="200" >
+                    <TextBlock Text="Appointments" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                    <TextBlock Text="{Binding AppointmentsToday, FallbackValue=0}" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Height="50" Width="300" Background="#55efc4" Margin="20 20 0 0">
+                <fa5:ImageAwesome Margin="10,0,0,10" Height="25" Icon="Solid_UserMd" Foreground="#16a085"/>
+                <StackPanel Margin="50 0 0 0" Width="200">
+                    <TextBlock Text="Doctors" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                    <TextBlock Text="{Binding ActiveDoctors, FallbackValue=0}" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Height="50" Width="300" Background="#55efc4" Margin="20 20 0 0">
+                <fa5:ImageAwesome Margin="10,0,0,10" Height="25" Icon="Solid_Check" Foreground="#16a085"/>
+                <StackPanel Margin="50 0 0 0" Width="200">
+                    <TextBlock Text="Completed appointments" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                    <TextBlock Text="{Binding CompletedAppointments, FallbackValue=0}" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Height="50" Width="300" Background="#55efc4" Margin="20 20 0 0">
+                <fa5:ImageAwesome Margin="10,0,0,10" Height="25" Icon="Solid_Ban" Foreground="#16a085"/>
+                <StackPanel Margin="50 0 0 0" Width="200">
+                    <TextBlock Text="Cancelled appointments" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                    <TextBlock Text="{Binding CancelledAppointments, FallbackValue=0}" Foreground="{DynamicResource WhiteTextColor}" HorizontalAlignment="Right"></TextBlock>
+                </StackPanel>
+            </StackPanel>
+
+        </WrapPanel>
+        
+    </Grid>
+</Page>

@@ -1,0 +1,68 @@
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.deps.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.AssemblyReference.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfoInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfo.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.CoreCompileInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.Up2Date
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\refint\ViewModels.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ref\ViewModels.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.deps.json
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.AssemblyReference.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfoInputs.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfo.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.CoreCompileInputs.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.Up2Date
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\refint\ViewModels.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ref\ViewModels.dll
+D:\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.deps.json
+D:\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.dll
+D:\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.dll
+D:\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.pdb
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.AssemblyReference.cache
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfoInputs.cache
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfo.cs
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.CoreCompileInputs.cache
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.Up2Date
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.dll
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\refint\ViewModels.dll
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.pdb
+D:\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ref\ViewModels.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.deps.json
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\bin\Debug\net8.0-windows\Models.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.AssemblyReference.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfoInputs.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.AssemblyInfo.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.CoreCompileInputs.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.Up2Date
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\refint\ViewModels.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ref\ViewModels.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.sourcelink.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\en\ViewModels.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.csproj.GenerateResource.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\en\ViewModels.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\bin\Debug\net8.0-windows\sr\ViewModels.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\sr\ViewModels.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.Resources.LanguageStrings.Strings.en.resources
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\ViewModels\obj\Debug\net8.0-windows\ViewModels.Resources.LanguageStrings.Strings.sr.resources

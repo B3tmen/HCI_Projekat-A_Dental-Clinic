@@ -1,0 +1,202 @@
+﻿<Window x:Class="DentalClinicGUI.Views.Doctor.Windows.AddAppointmentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DentalClinicGUI.Views.Doctor"
+        xmlns:fa5="http://schemas.fontawesome.com/icons/"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="AddAppointmentWindow" Height="600" Width="1500" MinWidth="1500" FontFamily="{DynamicResource AppFontFamily}">
+    <Grid Background="{DynamicResource BackgroundColor}">
+        <Grid.Resources>
+            <Style x:Key="CustomCalendarDayButton" TargetType="CalendarDayButton" BasedOn="{StaticResource MaterialDesignCalendarDayButton}">
+                <Setter Property="materialDesign:CalendarAssist.SelectionColor" Value="#B2F39B" />
+                <Setter Property="materialDesign:CalendarAssist.SelectionForegroundColor" Value="Black" />
+            </Style>
+            <Style x:Key="CustomCalendarButton" TargetType="CalendarButton" BasedOn="{StaticResource MaterialDesignCalendarButton}">
+                <Setter Property="materialDesign:CalendarAssist.SelectionColor" Value="#B2F39B" />
+                <Setter Property="materialDesign:CalendarAssist.SelectionForegroundColor" Value="Black" />
+            </Style>
+        </Grid.Resources>
+
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <!-- ******************** ROW 0: Calendar, Available appoitnments, Patient Group Box *************************** -->
+        <ScrollViewer Grid.Row="0" Grid.Column="0">
+            <Calendar Height="Auto" Width="200" Margin="10" HorizontalAlignment="Left" Background="{DynamicResource CalendarMainBackgroundColor}" Foreground="{DynamicResource TextColor}" SelectedDate="{Binding AppointmentDate}"
+                      materialDesign:CalendarAssist.HeaderBackground="{DynamicResource CalendarHeaderBackgroundColor}" materialDesign:CalendarAssist.HeaderForeground="{DynamicResource TextColor}" 
+                      CalendarButtonStyle="{StaticResource CustomCalendarButton}" CalendarDayButtonStyle="{StaticResource CustomCalendarDayButton}"/>
+        </ScrollViewer>
+
+        <Border Grid.Row="0" Grid.Column="1" Padding="10" Height="Auto" HorizontalAlignment="Center">
+            <ScrollViewer>
+                <materialDesign:Clock  Width="Auto" DisplayAutomation="CycleWithSeconds" Is24Hours="True" Style="{StaticResource MaterialDesignClock}" Time="{Binding AppointmentTime}" />
+            </ScrollViewer>
+            
+        </Border>
+
+        <ScrollViewer Grid.Row="0" Grid.Column="2">
+            <GroupBox  Height="Auto" Header="{DynamicResource AppointmentPatientTitleGroupBox}" Margin="10,10,10,10" VerticalAlignment="Top"
+                  materialDesign:ColorZoneAssist.Background="{DynamicResource ButtonBackgroundColor}" materialDesign:ColorZoneAssist.Foreground="{DynamicResource TextColor}" materialDesign:ColorZoneAssist.Mode="Custom" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="ID" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding SelectedPatient.PatientId}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" IsReadOnly="True" 
+                             Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="{DynamicResource AppointmentPatientNameTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding SelectedPatient.FirstName}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" IsReadOnly="True" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="{DynamicResource AppointmentPatientDOBTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding SelectedPatient.DateOfBirth}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" IsReadOnly="True" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+                    <TextBlock Grid.Row="3" Grid.Column="0" Text="{DynamicResource AppointmentDoctorTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding SelectedDoctorName}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" IsReadOnly="True" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+                    <TextBlock Grid.Row="4" Grid.Column="0" Text="{DynamicResource AppointmentPatientPhoneTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding SelectedPatient.PhoneNumber}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" IsReadOnly="True" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+                </Grid>
+            </GroupBox>
+        </ScrollViewer>
+
+
+        <!-- ******************** ROW 1: Status, Chosen doctor, patients table *************************** -->
+        <GroupBox Grid.Row="1" Grid.Column="0" Header="Status" Height="Auto" Margin="10,10,10,10" VerticalAlignment="Top"
+                  materialDesign:ColorZoneAssist.Background="{DynamicResource ButtonBackgroundColor}" materialDesign:ColorZoneAssist.Foreground="{DynamicResource TextColor}" materialDesign:ColorZoneAssist.Mode="Custom" >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                
+                
+                <RadioButton Grid.Row="0" Grid.Column="0" Background="{DynamicResource SelectedRadioBtnColor}" Content="{DynamicResource AppointmentConfirmedRadioBtnContent}" Foreground="{DynamicResource TextColor}" IsChecked="{Binding IsConfirmed}" Margin="0,0,10,0"></RadioButton>
+                <RadioButton Grid.Row="0" Grid.Column="1" Background="{DynamicResource SelectedRadioBtnColor}" Content="{DynamicResource AppointmentMissedRadioBtnContent}" Foreground="{DynamicResource TextColor}" IsChecked="{Binding IsMissed}"></RadioButton>
+                <RadioButton Grid.Row="1" Grid.Column="0" Background="{DynamicResource SelectedRadioBtnColor}" Content="{DynamicResource AppointmentCancelledRadioBtnContent}" Foreground="{DynamicResource TextColor}" IsChecked="{Binding IsCancelled}"></RadioButton>
+                <RadioButton Grid.Row="1" Grid.Column="1" Background="{DynamicResource SelectedRadioBtnColor}" Content="{DynamicResource AppointmentFinishedRadioBtnContent}" Foreground="{DynamicResource TextColor}" IsChecked="{Binding IsFinished}"></RadioButton>
+            </Grid>
+        </GroupBox>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Margin="10">
+            <TextBlock Text="Doctor" HorizontalAlignment="Center"></TextBlock>
+            <ComboBox Width="200" ItemsSource="{Binding DoctorNamesCollection}" SelectedValue="{Binding SelectedDoctorName}"
+                      Foreground="{DynamicResource TextColor}" Background="{DynamicResource ComboBoxItemBackgroundColor}" BorderBrush="{DynamicResource UnderlineColor}" 
+                      materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" ItemContainerStyle="{StaticResource CustomComboBoxItemStyle}"
+                      >
+            </ComboBox>
+        </StackPanel>
+
+        <Button Grid.Row="2" Grid.Column="2" Margin="0,0,10,10" Width="Auto" HorizontalAlignment="Right" VerticalAlignment="Bottom" Command="{Binding AddAppointmentCommand}"
+                Foreground="{DynamicResource TextColor}" Background="{DynamicResource ButtonBackgroundColor}" BorderBrush="#bdc3c7">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <fa5:ImageAwesome Height="20" Icon="Regular_CheckCircle" Foreground="{DynamicResource IconForegroundColor}" Margin="0,0,10,0"/>
+                    <TextBlock Text="{DynamicResource AddAppointmentButtonText}"></TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+
+
+        <DataGrid Grid.Row="1" Grid.Column="2" Margin="10 10 10 10" Width="Auto" ItemsSource="{Binding PatientsCollection}" SelectedItem="{Binding SelectedPatient}" AutoGenerateColumns="False" IsReadOnly="True" 
+          Background="{DynamicResource TableBackgroundColor}" BorderBrush="{DynamicResource TableBorderBrushColor}" Foreground="{DynamicResource TextColor}">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="View patient"></MenuItem>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="Auto" Binding="{Binding PatientId}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientIdTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding FirstName}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientFirstNameTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding LastName}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientLastNameTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding DateOfBirth}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientDOBTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding Gender}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientGenderTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding PhoneNumber}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientPhoneNumberTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Width="Auto" Binding="{Binding Email}">
+                    <DataGridTextColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock  Width="Auto" Text="{DynamicResource PatientEmailTableHeader}" Foreground="{DynamicResource TextColor}"/>
+                        </DataTemplate>
+                    </DataGridTextColumn.HeaderTemplate>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

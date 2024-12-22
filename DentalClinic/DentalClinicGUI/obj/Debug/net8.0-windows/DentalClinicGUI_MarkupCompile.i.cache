@@ -1,0 +1,20 @@
+﻿DentalClinicGUI
+1.0.0.0
+
+exe
+C#
+.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\
+DentalClinicGUI
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\App.xaml
+29-600833304
+
+34-2125333164
+244-1405311182
+Dictionaries\ControlStyles.xaml;Dictionaries\Fonts.xaml;Dictionaries\Languages\Language.en-us.xaml;Dictionaries\Languages\Language.sr.xaml;Dictionaries\Themes\BlueTheme.xaml;Dictionaries\Themes\DarkTheme.xaml;Dictionaries\Themes\LightTheme.xaml;LoginWindow.xaml;Views\Administrator\AdminMainWindow.xaml;Views\Administrator\Pages\SettingsPage.xaml;Views\Administrator\Pages\StoragePage.xaml;Views\Administrator\Pages\UsersPage.xaml;Views\Administrator\Windows\AddMedicineWindow.xaml;Views\Administrator\Windows\AddUserWindow.xaml;Views\Administrator\Windows\UpdateMedicineWindow.xaml;Views\Administrator\Windows\UpdateUserWindow.xaml;Views\Doctor\DoctorMainWindow.xaml;Views\Doctor\Pages\AppointmentsPage.xaml;Views\Doctor\Pages\DashboardPage.xaml;Views\Doctor\Pages\DoctorsPage.xaml;Views\Doctor\Pages\MedicinePage.xaml;Views\Doctor\Pages\PatientsPage.xaml;Views\Doctor\Pages\PaymentPage.xaml;Views\Doctor\Pages\SettingsPage.xaml;Views\Doctor\Windows\AddAppointmentWindow.xaml;Views\Doctor\Windows\AddMedicineWindow.xaml;Views\Doctor\Windows\AddPatientWindow.xaml;Views\Doctor\Windows\AddTreatmentWindow.xaml;Views\Doctor\Windows\ReceiptWindow.xaml;
+
+True
+

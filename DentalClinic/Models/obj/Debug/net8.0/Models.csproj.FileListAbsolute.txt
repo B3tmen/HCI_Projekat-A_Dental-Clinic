@@ -1,0 +1,61 @@
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\bin\Debug\net8.0\Models.deps.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\bin\Debug\net8.0\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\bin\Debug\net8.0\Models.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\refint\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\Models.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\Models\obj\Debug\net8.0\ref\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\bin\Debug\net8.0\Models.deps.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\bin\Debug\net8.0\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\bin\Debug\net8.0\Models.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\refint\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\ref\Models.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\bin\Debug\net8.0\Models.deps.json
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\bin\Debug\net8.0\Models.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\bin\Debug\net8.0\Models.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\refint\Models.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\ref\Models.dll
+D:\DentalClinic\Models\bin\Debug\net8.0\Models.deps.json
+D:\DentalClinic\Models\bin\Debug\net8.0\Models.dll
+D:\DentalClinic\Models\bin\Debug\net8.0\Models.pdb
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.dll
+D:\DentalClinic\Models\obj\Debug\net8.0\refint\Models.dll
+D:\DentalClinic\Models\obj\Debug\net8.0\Models.pdb
+D:\DentalClinic\Models\obj\Debug\net8.0\ref\Models.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\bin\Debug\net8.0\Models.deps.json
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\bin\Debug\net8.0\Models.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\bin\Debug\net8.0\Models.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\refint\Models.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\Models.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\Models\obj\Debug\net8.0\ref\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\Models\obj\Debug\net8.0\Models.sourcelink.json

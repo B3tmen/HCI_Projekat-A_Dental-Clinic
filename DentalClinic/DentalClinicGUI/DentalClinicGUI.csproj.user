@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Administrator\AdminMainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Administrator\Pages\StoragePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Administrator\Pages\UsersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Administrator\Windows\AddUserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Administrator\Windows\UpdateMedicineWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Administrator\Windows\UpdateUserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Windows\AddAppointmentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Windows\AddMedicineWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Windows\AddPatientWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\AppointmentsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\DashboardPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\DoctorMainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\DoctorsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\MedicinePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\PatientsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\PaymentPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Pages\SettingsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Windows\AddTreatmentWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Doctor\Windows\ReceiptWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Dictionaries\ControlStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionaries\Fonts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionaries\Languages\Language.en-us.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionaries\Languages\Language.sr.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionaries\Themes\BlueTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionaries\Themes\DarkTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionaries\Themes\LightTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\AdminMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Pages\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Pages\StoragePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Pages\UsersPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Windows\AddMedicineWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Windows\AddUserWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Windows\UpdateMedicineWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Administrator\Windows\UpdateUserWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Windows\AddAppointmentWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Windows\AddMedicineWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Windows\AddPatientWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\AppointmentsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\DashboardPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\DoctorMainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\DoctorsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\MedicinePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\PatientsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\PaymentPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Pages\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Windows\AddTreatmentWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Doctor\Windows\ReceiptWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

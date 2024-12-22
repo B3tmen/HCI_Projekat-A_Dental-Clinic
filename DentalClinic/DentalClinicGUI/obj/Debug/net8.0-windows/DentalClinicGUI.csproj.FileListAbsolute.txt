@@ -1,0 +1,402 @@
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.exe
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.deps.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.runtimeconfig.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.AssemblyReference.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.lref
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.g.resources
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfoInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfo.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.CoreCompileInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalCl.E9155A8A.Up2Date
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\refint\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.genruntimeconfig.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\ref\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni 2024\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.AssemblyReference.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.lref
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.exe
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.deps.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.runtimeconfig.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.Net.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.g.resources
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfoInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfo.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.CoreCompileInputs.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalCl.E9155A8A.Up2Date
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\refint\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.genruntimeconfig.cache
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\ref\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\DarkTheme.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\LightTheme.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.en-us.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.sr.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.exe
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.deps.json
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.runtimeconfig.json
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.Net.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.AssemblyReference.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.en-us.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.sr.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\DarkTheme.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\LightTheme.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\AppointmentsPage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DashboardPage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorsPage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\MedicinePage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PatientsPage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PaymentPage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\SettingsPage.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.g.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.lref
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\AppointmentsPage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DashboardPage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorsPage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\MedicinePage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PatientsPage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PaymentPage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\SettingsPage.baml
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.g.resources
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfoInputs.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfo.cs
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.CoreCompileInputs.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalCl.E9155A8A.Up2Date
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\refint\DentalClinicGUI.dll
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.genruntimeconfig.cache
+D:\ETF stvari\Cetvrta godina\VII semestar\HCI\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\ref\DentalClinicGUI.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.exe
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.deps.json
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.runtimeconfig.json
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.Net.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.pdb
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.AssemblyReference.cache
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.en-us.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.sr.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\DarkTheme.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\LightTheme.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\AppointmentsPage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DashboardPage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorsPage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\MedicinePage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PatientsPage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PaymentPage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\SettingsPage.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.g.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.cache
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.lref
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\AppointmentsPage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DashboardPage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorsPage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\MedicinePage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PatientsPage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PaymentPage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\SettingsPage.baml
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.g.resources
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfoInputs.cache
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfo.cs
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.CoreCompileInputs.cache
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalCl.E9155A8A.Up2Date
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\refint\DentalClinicGUI.dll
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.genruntimeconfig.cache
+D:\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\ref\DentalClinicGUI.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.exe
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.deps.json
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.runtimeconfig.json
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.Net.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\FontAwesome5.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\ViewModels.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Models.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.AssemblyReference.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.en-us.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Languages\Language.sr.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\DarkTheme.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\LightTheme.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\AppointmentsPage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DashboardPage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorsPage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\MedicinePage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PatientsPage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PaymentPage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\SettingsPage.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.g.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI_MarkupCompile.lref
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\App.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\AppointmentsPage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DashboardPage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorsPage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\MedicinePage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PatientsPage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\PaymentPage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\SettingsPage.baml
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.g.resources
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfoInputs.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.AssemblyInfo.cs
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.csproj.CoreCompileInputs.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalCl.E9155A8A.Up2Date
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\refint\DentalClinicGUI.dll
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.pdb
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.genruntimeconfig.cache
+D:\PROJEKTNI_TESTOVI_GITHUB\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\ref\DentalClinicGUI.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Themes\BlueTheme.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\DentalClinicGUI.sourcelink.json
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddAppointmentWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddMedicineWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddPatientWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddAppointmentWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddMedicineWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddPatientWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\en\ViewModels.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddTreatmentWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\AddTreatmentWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\AppointmentsPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\DashboardPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\DoctorsPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\MedicinePage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\PatientsPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\PaymentPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\SettingsPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\AppointmentsPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\DashboardPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\DoctorsPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\MedicinePage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\PatientsPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\PaymentPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Pages\SettingsPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\DoctorMainWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\PdfSharp.System.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\PdfSharp.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MigraDoc.Rendering.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\MigraDoc.RtfRendering.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\de\MigraDoc.Rendering.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\de\MigraDoc.RtfRendering.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\ReceiptWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Doctor\Windows\ReceiptWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\XpsToPdf.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\bin\Debug\net8.0-windows\sr\ViewModels.resources.dll
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\AdminMainWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\AdminMainWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Pages\StoragePage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Pages\UsersPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Pages\StoragePage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Pages\UsersPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Pages\SettingsPage.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Pages\SettingsPage.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\AddUserWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\AddUserWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\AddMedicineWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\UpdateUserWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\AddMedicineWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\UpdateUserWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\UpdateMedicineWindow.g.cs
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Views\Administrator\Windows\UpdateMedicineWindow.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\Fonts.baml
+D:\SKOLA MOODLE\ETF\GRADIVO PO GODINAMA\Cetvrta godina\VII semestar\Interakcija covjek-racunar\Projektni\Projektni A\DentalClinic\DentalClinicGUI\obj\Debug\net8.0-windows\Dictionaries\ControlStyles.baml

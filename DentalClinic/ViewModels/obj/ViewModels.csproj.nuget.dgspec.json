@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\ViewModels\\ViewModels.csproj": {}
+  },
+  "projects": {
+    "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "PDFsharp-MigraDoc": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "XpsToPdf": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\Models\\Models.csproj": {
+                "projectPath": "D:\\SKOLA MOODLE\\ETF\\GRADIVO PO GODINAMA\\Cetvrta godina\\VII semestar\\Interakcija covjek-racunar\\Projektni\\Projektni A\\DentalClinic\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

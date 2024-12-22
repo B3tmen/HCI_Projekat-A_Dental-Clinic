@@ -1,0 +1,101 @@
+﻿<Window x:Class="DentalClinicGUI.Views.Administrator.Windows.UpdateUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DentalClinicGUI.Views.Administrator.Windows"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:vm="clr-namespace:ViewModels.Converters;assembly=ViewModels"
+        mc:Ignorable="d"
+        Title="UpdateUserWindow" Height="560" Width="800" MinHeight="560" Icon="../../../Resources/App-logo.png" FontFamily="{DynamicResource AppFontFamily}">
+
+    <Window.Resources>
+        <vm:BooleanToVisibilityConverter x:Key="Bool2VisConverter" />
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="0.75*"></RowDefinition>
+            <RowDefinition Height="0.25*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{DynamicResource UpdateUserTitle}" FontSize="20" Foreground="{DynamicResource TextColor}"/>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <!-- ********** User general config ********** -->
+            <GroupBox Grid.Row="0" Header="{DynamicResource UserGeneralConfig}" Height="Auto" Margin="10,10,10,10" VerticalAlignment="Top"
+                materialDesign:ColorZoneAssist.Background="{DynamicResource ButtonBackgroundColor}" materialDesign:ColorZoneAssist.Foreground="{DynamicResource TextColor}" 
+                materialDesign:ColorZoneAssist.Mode="Custom" >
+                
+                <WrapPanel>
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding User.Username}" Margin="10,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource UsernameTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding User.FirstName}" Margin="30,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource FirstNameTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding User.LastName}" Margin="30,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource LastNameTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding User.Email}" Margin="10,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource EmailTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+                </WrapPanel>
+            </GroupBox>
+
+            <!-- ********** Doctor specific config ********** -->
+            <GroupBox Grid.Row="1" Header="{DynamicResource DoctorSpecificConfig}" Height="Auto" Margin="10,10,10,10" VerticalAlignment="Top" Visibility="{Binding IsDoctorSelected, Converter={StaticResource Bool2VisConverter}}"
+            materialDesign:ColorZoneAssist.Background="{DynamicResource ButtonBackgroundColor}" materialDesign:ColorZoneAssist.Foreground="{DynamicResource TextColor}" 
+            materialDesign:ColorZoneAssist.Mode="Custom" >
+
+                <WrapPanel>
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding Doctor.Specialization}" Margin="10,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource SpecializationTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding Doctor.PhoneNumber}" Margin="30,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource PhoneNumberTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+
+                    <ComboBox Grid.Row="5" Grid.Column="1" Margin="10,0,0,0" Width="150" SelectedItem="{Binding Doctor.Gender}" ItemsSource="{Binding GenderItems}" HorizontalAlignment="Left"
+                    Foreground="{DynamicResource TextColor}" Background="{DynamicResource ComboBoxItemBackgroundColor}" BorderBrush="{DynamicResource UnderlineColor}" 
+                    materialDesign:HintAssist.Hint="{DynamicResource ChooseGenderHint}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Style="{StaticResource MaterialDesignOutlinedComboBox}" ItemContainerStyle="{StaticResource CustomComboBoxItemStyle}">
+                    </ComboBox>
+
+                    <TextBox Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding Doctor.Salary}" Margin="10,0,0,0"
+                    materialDesign:HintAssist.Hint="{DynamicResource SalaryTextBlock}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                    Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}" materialDesign:HintAssist.Foreground="{DynamicResource UnderlineColor}"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"  />
+                </WrapPanel>
+            </GroupBox>
+        </Grid>
+       
+
+        <Button Grid.Row="2" Margin="0,0,10,10" Width="Auto" VerticalAlignment="Bottom" HorizontalAlignment="Right" Command="{Binding UpdateUserCommand}"
+            Foreground="{DynamicResource TextColor}" Background="{DynamicResource ButtonBackgroundColor}" BorderBrush="#bdc3c7">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    
+                    <TextBlock Text="{DynamicResource UpdateUserTitle}" ></TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+
+
+    </Grid>
+</Window>

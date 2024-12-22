@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Source: https://atlassian.design/foundations/color-new/color-palette-new -->
+
+    <SolidColorBrush Color="#FFFFFF" x:Key="WhiteTextColor" />
+    <SolidColorBrush Color="#1D2125" x:Key="BackgroundColor" />
+    <SolidColorBrush Color="#2ABB7F" x:Key="ButtonBackgroundColor"/>
+    <SolidColorBrush Color="#2ABB7F" x:Key="UnderlineColor"/>
+    <SolidColorBrush Color="#2ABB7F" x:Key="SelectedRadioBtnColor"/>
+    <SolidColorBrush Color="#16a085" x:Key="TitleIconForegroundColor" />
+    <SolidColorBrush Color="#2C333A" x:Key="IconForegroundColor" />
+    <SolidColorBrush Color="#DEE4EA" x:Key="TextColor" />
+    <SolidColorBrush Color="#8C9BAB" x:Key="StaticUnderlineColor" />
+
+    <SolidColorBrush Color="#454F59" x:Key="ComboBoxBackgroundColor" />
+    <SolidColorBrush Color="#454F59" x:Key="ComboBoxItemBackgroundColor" />
+    <SolidColorBrush Color="#DEE4EA" x:Key="ComboBoxItemForegroundColor" />
+    <SolidColorBrush Color="#2ABB7F" x:Key="ComboBoxItemHoverBackgroundColor" />
+    <SolidColorBrush Color="#7f8c8d" x:Key="ComboBoxItemHoverForegroundColor" />
+
+    <SolidColorBrush Color="#2c3e50" x:Key="TableBackgroundColor" />
+    <SolidColorBrush Color="#FFFFFF" x:Key="TableBorderBrushColor" />
+    <SolidColorBrush Color="#1e90ff" x:Key="TableRowHoverColor" />
+    
+    <SolidColorBrush Color="#0a3d62" x:Key="CalendarHeaderBackgroundColor" />
+    <SolidColorBrush Color="#343C3F" x:Key="CalendarMainBackgroundColor"/>
+
+</ResourceDictionary>

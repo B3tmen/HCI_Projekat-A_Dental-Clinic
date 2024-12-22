@@ -1,0 +1,125 @@
+﻿<Window x:Class="DentalClinicGUI.Views.Administrator.Windows.AddUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DentalClinicGUI.Views.Administrator.Windows"
+        xmlns:fa5="http://schemas.fontawesome.com/icons/"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:vm="clr-namespace:ViewModels.Converters;assembly=ViewModels"
+        mc:Ignorable="d"
+        Title="AddUserWindow" Height="450" Width="800" Icon="../../../Resources/App-logo.png" FontFamily="{DynamicResource AppFontFamily}" >
+
+    <Window.Resources>
+        <vm:BooleanToVisibilityConverter x:Key="Bool2VisConverter" />
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <!-- User config grid -->
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="100"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="{DynamicResource UsernameTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+            <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding User.Username}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="{DynamicResource PasswordTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding User.Password}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+            materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="{DynamicResource FirstNameTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding User.FirstName}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+            <TextBlock Grid.Row="3" Grid.Column="0" Text="{DynamicResource LastNameTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+            <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding User.LastName}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+            <TextBlock Grid.Row="4" Grid.Column="0" Text="{DynamicResource EmailTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+            <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding User.Email}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+             materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+            <TextBlock Grid.Row="5" Grid.Column="0" Margin="0,0,10,0" Text="{DynamicResource RoleTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="{DynamicResource TextColor}"></TextBlock>
+            <ComboBox Grid.Row="5" Grid.Column="1" Margin="10,0,0,0" Width="150" SelectedItem="{Binding SelectedRole, Mode=TwoWay}" ItemsSource="{Binding RoleItems}" HorizontalAlignment="Left"
+                Foreground="{DynamicResource TextColor}" Background="{DynamicResource ComboBoxItemBackgroundColor}" BorderBrush="{DynamicResource UnderlineColor}" 
+                materialDesign:HintAssist.Hint="{DynamicResource ChooseRoleHint}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" 
+                      Style="{StaticResource MaterialDesignOutlinedComboBox}" ItemContainerStyle="{StaticResource CustomComboBoxItemStyle}">
+            </ComboBox>
+        </Grid>
+
+        <!-- User specific config grid -->
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <!-- Doctor specific config -->
+            <Expander Grid.Row="0" Header="Doctor specific config" Height="Auto" ExpandDirection="Down" Margin="10,10,10,26" Background="Transparent" Visibility="{Binding DoctorRoleSelected, Converter={StaticResource Bool2VisConverter}}">
+                <!-- User config grid --> 
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="50"></RowDefinition>
+                        <RowDefinition Height="100"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="{DynamicResource SpecializationTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Doctor.Specialization}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+                    materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="{DynamicResource PhoneNumberTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Doctor.PhoneNumber}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+                    materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="{DynamicResource PatientGenderTableHeader}" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <ComboBox Grid.Row="2" Grid.Column="1" Width="150" SelectedItem="{Binding Doctor.Gender}" ItemsSource="{Binding GenderItems}" HorizontalAlignment="Left" Margin="10,0,0,0"
+                    Foreground="{DynamicResource TextColor}" Background="{DynamicResource ComboBoxItemBackgroundColor}" BorderBrush="{DynamicResource UnderlineColor}" ItemContainerStyle="{StaticResource CustomComboBoxItemStyle}"
+                    materialDesign:HintAssist.Hint="{DynamicResource ChooseGenderHint}" materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}" Style="{StaticResource MaterialDesignOutlinedComboBox}"  >
+                    </ComboBox>
+
+                    <TextBlock Grid.Row="3" Grid.Column="0" Text="{DynamicResource SalaryTextBlock}" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,10,0" Foreground="{DynamicResource TextColor}"></TextBlock>
+                    <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Doctor.Salary}" Width="200" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="{DynamicResource TextColor}" BorderBrush="{DynamicResource StaticUnderlineColor}"
+                    materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource UnderlineColor}"></TextBox>
+                </Grid>
+            </Expander>
+        </Grid>
+
+        <Button Grid.Row="1" Grid.Column="1" Margin="0,0,10,10" Width="Auto" HorizontalAlignment="Right" VerticalAlignment="Bottom" Command="{Binding AddUserCommand}"
+            Foreground="{DynamicResource TextColor}" Background="{DynamicResource ButtonBackgroundColor}" BorderBrush="#bdc3c7">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <fa5:ImageAwesome Height="20" Margin="0,0,10,0" Icon="Solid_UserCheck" Foreground="{DynamicResource IconForegroundColor}"/>
+                    <TextBlock Text="{DynamicResource AddUserButtonText}" ></TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

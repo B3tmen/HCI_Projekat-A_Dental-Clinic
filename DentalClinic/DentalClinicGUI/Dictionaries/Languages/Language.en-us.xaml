@@ -1,0 +1,191 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- ///////////////////////////////////////////////////////////////////////// DOCTOR ///////////////////////////////////////////////////////////////////////// -->
+    <!-- ====================================  DoctorMain Window  ==================================== -->
+    <!-- Doctor buttons navbar -->
+    <system:String x:Key="DashboardButtonText">Dashboard</system:String>
+    <system:String x:Key="AppointmentsButtonText">Appointments</system:String>
+    <system:String x:Key="PatientsButtonText">Patients</system:String>
+    <system:String x:Key="DoctorsButtonText">Dentists</system:String>
+    <system:String x:Key="MedicineButtonText">Medicine</system:String>
+    <system:String x:Key="PaymentButtonText">Payment</system:String>
+    <system:String x:Key="SettingsButtonText">Settings</system:String>
+    <system:String x:Key="LogoutButtonText">Log out</system:String>
+
+
+    <!-- ====================================  Appointments Page  ==================================== -->
+    <system:String x:Key="AddAppointmentButtonText">Add appointment</system:String>
+    <system:String x:Key="RefreshButtonText">Refresh</system:String>
+    <system:String x:Key="SearchPlaceholderText">Search...</system:String>
+    <system:String x:Key="TotalAppointmentsTextBlock">Appointments today</system:String>
+
+    <system:String x:Key="AppointmentIdTableHeader">Appointment ID</system:String>
+    <system:String x:Key="AppointmentDoctorNameTableHeader">Doctor name</system:String>
+    <system:String x:Key="AppointmentReservationTableHeader">Reservation time</system:String>
+    <system:String x:Key="AppointmentStatusTableHeader">Status</system:String>
+    
+    <!-- Add appointments window -->
+    <system:String x:Key="AppointmentPatientGroupBoxHeader">Patient</system:String>
+    <system:String x:Key="AppointmentAvailableRadioBtnContent">Available</system:String>
+    <system:String x:Key="AppointmentUnavailableRadioBtnContent">Unavailable</system:String>
+    <system:String x:Key="AppointmentConfirmedRadioBtnContent">Confirmed</system:String>
+    <system:String x:Key="AppointmentMissedRadioBtnContent">Missed</system:String>
+    <system:String x:Key="AppointmentCancelledRadioBtnContent">Cancelled</system:String>
+    <system:String x:Key="AppointmentFinishedRadioBtnContent">Finished</system:String>
+
+    <system:String x:Key="AppointmentPatientTitleGroupBox">Patient</system:String>
+    <system:String x:Key="AppointmentPatientNameTextBlock">Name</system:String>
+    <system:String x:Key="AppointmentPatientDOBTextBlock">DOB</system:String>
+    <system:String x:Key="AppointmentPatientPhoneTextBlock">Phone</system:String>
+    <system:String x:Key="AppointmentDoctorTextBlock">Doctor</system:String>
+    <system:String x:Key="AppointmentStatusTextBlock">Status</system:String>
+    
+
+    <!-- ====================================  Patients Page  ==================================== -->
+    <system:String x:Key="AddPatientButtonText">Add patient</system:String>
+    <system:String x:Key="PatientPageTitle">Patient information page</system:String>
+    <system:String x:Key="TotalPatientsTextBlock">Total patients</system:String>
+
+    <system:String x:Key="PatientIdTableHeader">Patient ID</system:String>
+    <system:String x:Key="PatientFirstNameTableHeader">First name</system:String>
+    <system:String x:Key="PatientLastNameTableHeader">Last name</system:String>
+    <system:String x:Key="PatientDOBTableHeader">DOB</system:String>
+    <system:String x:Key="PatientGenderTableHeader">Gender</system:String>
+    <system:String x:Key="PatientPhoneNumberTableHeader">Phone number</system:String>
+    <system:String x:Key="PatientEmailTableHeader">Email</system:String>
+    
+    <!-- Treatment window -->
+    <system:String x:Key="TreatmentPatientId">Patient ID</system:String>
+    <system:String x:Key="TreatmentPatientName">Name</system:String>
+    <system:String x:Key="TreatmentPatientDOB">DOB</system:String>
+    <system:String x:Key="TreatmentPatientGender">Gender</system:String>
+    <system:String x:Key="TreatmentPatientPhone">Phone</system:String>
+    <system:String x:Key="TreatmentName">Name</system:String>
+    <system:String x:Key="TreatmentDescription">Description</system:String>
+    <system:String x:Key="TreatmentMedicine">Medicine</system:String>
+    
+    <!-- Add patient window -->
+
+    <!-- ====================================  Doctors Page  ==================================== -->
+    <system:String x:Key="DoctorsPageTitle">Dentists information page</system:String>
+    <system:String x:Key="TotalDoctorsTextBlock">Total doctors</system:String>
+    
+    <!-- Table headers -->
+    <system:String x:Key="DoctorIdTableHeader">Doctor ID</system:String>
+    <system:String x:Key="DoctorFirstNameTableHeader">First name</system:String>
+    <system:String x:Key="DoctorLastNameTableHeader">Last name</system:String>
+    <system:String x:Key="DoctorSpecializationTableHeader">Specialization</system:String>
+    <system:String x:Key="DoctorPhoneNumberTableHeader">Phone number</system:String>
+    <system:String x:Key="DoctorEmailTableHeader">Email</system:String>
+    <system:String x:Key="DoctorGenderTableHeader">Gender</system:String>
+
+
+    <!-- ====================================  Medicine Page  ==================================== -->
+    <system:String x:Key="MedicinePageTitle">Medicine information page</system:String>
+    <system:String x:Key="TotalMedicineTextBlock">Total medicine</system:String>
+    <system:String x:Key="AddMedicineButtonText">Add medicine</system:String>
+
+    <!-- Table headers -->
+    <system:String x:Key="MedicineIdTableHeader">Medicine ID</system:String>
+    <system:String x:Key="MedicineNameTableHeader">Name</system:String>
+    <system:String x:Key="MedicineDaysOfUseTableHeader">Days of use</system:String>
+    <system:String x:Key="MedicineTimesPerDayTableHeader">Times per day</system:String>
+    <system:String x:Key="MedicineExpirationDateTableHeader">Expiration date</system:String>
+    
+    <!-- Add Medicine Window -->
+    <system:String x:Key="MedicineGroupBoxTitle">Medicine name</system:String>
+    <system:String x:Key="MedicineDaysOfUse">Days of use</system:String>
+    <system:String x:Key="MedicineUseTimesPerDay">Use times per day</system:String>
+    <system:String x:Key="MedicineExpirationDateCalendarHint">Expiration date</system:String>
+
+
+
+    <!-- ====================================  Payments Page  ==================================== -->
+    <system:String x:Key="PaymentTitleTextBlock">Payment information page</system:String>
+    <system:String x:Key="PaymentGenerateReceiptText">Generate receipt</system:String>
+    <system:String x:Key="PaymentPrintReceiptText">Print</system:String>
+
+    <!-- Receipt Window -->
+    <system:String x:Key="ReceiptTitle">RECEIPT • Dental Clinic</system:String>
+    <system:String x:Key="PatientName">Patient name</system:String>
+    <system:String x:Key="DateIssued">Date issued:</system:String>
+    <system:String x:Key="ReceiptNumber">Receipt No:</system:String>
+    <system:String x:Key="TotalAllCaps">TOTAL</system:String>
+    <system:String x:Key="BillTo">Bill To:</system:String>
+    <system:String x:Key="ThanksForPayment">Thank Your for your payment</system:String>
+    <system:String x:Key="NameOfTreatmentHeader">NAME OF TREATMENT</system:String>
+    <system:String x:Key="PriceHeader">PRICE</system:String>
+    <system:String x:Key="TreatedTeethHeader">TREATED TEETH</system:String>
+    <system:String x:Key="SubtotalHeader">SUBTOTAL</system:String>
+    <system:String x:Key="TotalHeader">TOTAL</system:String>
+
+
+    <!-- ====================================  Settings Page  ==================================== -->
+    <system:String x:Key="UserSettings">User settings</system:String>
+
+    <system:String x:Key="UsernameTextBlock">Username</system:String>
+    <system:String x:Key="FirstNameTextBlock">First name</system:String>
+    <system:String x:Key="LastNameTextBlock">Last name</system:String>
+    <system:String x:Key="PasswordTextBlock">Password</system:String>
+    <system:String x:Key="RoleTextBlock">Role</system:String>
+    <system:String x:Key="EmailTextBlock">Email</system:String>
+    <system:String x:Key="SpecializationTextBlock">Specialization</system:String>
+    <system:String x:Key="PhoneNumberTextBlock">Phone number</system:String>
+    
+    <system:String x:Key="AppSettings">App settings</system:String>
+
+    <system:String x:Key="ThemeLabel">Theme</system:String>
+    <system:String x:Key="ChooseThemeHint">Choose theme</system:String>
+    <system:String x:Key="ThemeLight">Light</system:String>
+    <system:String x:Key="ThemeDark">Dark</system:String>
+    <system:String x:Key="ThemeBlue">Blue</system:String>
+
+    <system:String x:Key="LanguageLabel">Language</system:String>
+    <system:String x:Key="ChooseLanguageHint">Choose language</system:String>
+    <system:String x:Key="EnglishLang">English</system:String>
+    <system:String x:Key="SerbianLang">Serbian</system:String>
+
+    <system:String x:Key="FontLabel">Font</system:String>
+    <system:String x:Key="ChooseFontHint">Choose font</system:String>
+
+
+
+    <!-- ///////////////////////////////////////////////////////////////////////// ADMINISTRATOR ///////////////////////////////////////////////////////////////////////// -->
+    <!-- ====================================  AdminMain Window  ==================================== -->
+    <system:String x:Key="AdminMainUsers">Users</system:String>
+    <system:String x:Key="AdminMainStorage">Storage</system:String>
+
+
+    <!-- ====================================  Users Page  ==================================== -->
+    <system:String x:Key="UsersPageTitle">Users information page</system:String>
+
+    <system:String x:Key="AddUserButtonText">Add user</system:String>
+    <system:String x:Key="UserIdTableHeader">User ID</system:String>
+    <system:String x:Key="UserFirstNameTableHeader">First name</system:String>
+    <system:String x:Key="UserLastNameTableHeader">Last name</system:String>
+    <system:String x:Key="UserEmailTableHeader">Email</system:String>
+    <system:String x:Key="UserRoleTableHeader">Role</system:String>
+    <system:String x:Key="UserIsActiveTableHeader">Active</system:String>
+    <system:String x:Key="UserDetailsTableHeader">Details</system:String>
+    <system:String x:Key="UserUpdateTableHeader">Update</system:String>
+    <system:String x:Key="UserDetailsButtonText">Details</system:String>
+
+    <!-- Add user window -->
+    <system:String x:Key="ChooseRoleHint">Choose role</system:String>
+    <system:String x:Key="ChooseGenderHint">Choose gender</system:String>
+    <system:String x:Key="SalaryTextBlock">Salary</system:String>
+    
+     <!-- Update user window -->
+    <system:String x:Key="UpdateUserTitle">Update user info</system:String>
+    <system:String x:Key="UpdateUserButtonText">Update</system:String>
+    <system:String x:Key="UserGeneralConfig">General fields</system:String>
+    <system:String x:Key="DoctorSpecificConfig">Doctor specific fields</system:String>
+
+
+    <!-- ====================================  Storage Page  ==================================== -->
+    <system:String x:Key="UpdateMedicineButtonText">Update medicine</system:String>
+    <system:String x:Key="StorageActionsTableHeader">Actions</system:String>
+
+</ResourceDictionary>

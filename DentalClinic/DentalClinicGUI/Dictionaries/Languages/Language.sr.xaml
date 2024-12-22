@@ -1,0 +1,188 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- ///////////////////////////////////////////////////////////////////////// DOCTOR ///////////////////////////////////////////////////////////////////////// -->
+    <!-- ====================================  DoctorMainWindow  ==================================== -->
+    <!-- Doctor dugmadi -->
+    <system:String x:Key="DashboardButtonText">Kontrolna tabla</system:String>
+    <system:String x:Key="AppointmentsButtonText">Zakazivanja</system:String>
+    <system:String x:Key="PatientsButtonText">Pacijenti</system:String>
+    <system:String x:Key="DoctorsButtonText">Stomatolozi</system:String>
+    <system:String x:Key="MedicineButtonText">Lijekovi</system:String>
+    <system:String x:Key="PaymentButtonText">Plaćanje</system:String>
+    <system:String x:Key="SettingsButtonText">Podešavanja</system:String>
+    <system:String x:Key="LogoutButtonText">Odjava</system:String>
+
+
+    <!-- ====================================  Appointments Page  ==================================== -->
+    <system:String x:Key="AddAppointmentButtonText">Dodaj termin</system:String>
+    <system:String x:Key="RefreshButtonText">Osvježi</system:String>
+    <system:String x:Key="SearchPlaceholderText">Pretraga...</system:String>
+    <system:String x:Key="TotalAppointmentsTextBlock">Termini danas</system:String>
+
+    <system:String x:Key="AppointmentIdTableHeader">Zakazivanje ID</system:String>
+    <system:String x:Key="AppointmentDoctorNameTableHeader">Ime doktora</system:String>
+    <system:String x:Key="AppointmentReservationTableHeader">Vrijeme rezervacije</system:String>
+    <system:String x:Key="AppointmentStatusTableHeader">Status</system:String>
+
+    <!-- Add appointments window -->
+    <system:String x:Key="AppointmentPatientGroupBoxHeader">Pacijent</system:String>
+    <system:String x:Key="AppointmentAvailableRadioBtnContent">Slobodno</system:String>
+    <system:String x:Key="AppointmentUnavailableRadioBtnContent">Zauzeto</system:String>
+    <system:String x:Key="AppointmentConfirmedRadioBtnContent">Potvrđeno</system:String>
+    <system:String x:Key="AppointmentMissedRadioBtnContent">Nije došao</system:String>
+    <system:String x:Key="AppointmentCancelledRadioBtnContent">Otkazano</system:String>
+    <system:String x:Key="AppointmentFinishedRadioBtnContent">Završeno</system:String>
+
+    <system:String x:Key="AppointmentPatientTitleGroupBox">Pacijent</system:String>
+    <system:String x:Key="AppointmentPatientNameTextBlock">Ime i prezime</system:String>
+    <system:String x:Key="AppointmentPatientDOBTextBlock">Datum rođenja</system:String>
+    <system:String x:Key="AppointmentPatientPhoneTextBlock">Telefon</system:String>
+    <system:String x:Key="AppointmentDoctorTextBlock">Doktor</system:String>
+    <system:String x:Key="AppointmentStatusTextBlock">Stanje</system:String>
+
+
+    <!-- ====================================  Patients Page  ==================================== -->
+    <system:String x:Key="AddPatientButtonText">Dodaj pacijenta</system:String>
+    <system:String x:Key="PatientPageTitle">Informacije o pacijentima</system:String>
+    <system:String x:Key="TotalPatientsTextBlock">Ukupno pacijenata</system:String>
+
+    <system:String x:Key="PatientIdTableHeader">Pacijent ID</system:String>
+    <system:String x:Key="PatientFirstNameTableHeader">Ime</system:String>
+    <system:String x:Key="PatientLastNameTableHeader">Prezime</system:String>
+    <system:String x:Key="PatientDOBTableHeader">Datum rođenja</system:String>
+    <system:String x:Key="PatientGenderTableHeader">Pol</system:String>
+    <system:String x:Key="PatientPhoneNumberTableHeader">Broj telefona</system:String>
+    <system:String x:Key="PatientEmailTableHeader">Email</system:String>
+
+    <!-- Treatment window -->
+    <system:String x:Key="TreatmentPatientId">ID Pacijenta</system:String>
+    <system:String x:Key="TreatmentPatientName">Ime i prezime</system:String>
+    <system:String x:Key="TreatmentPatientDOB">Datum rođenja</system:String>
+    <system:String x:Key="TreatmentPatientGender">Pol</system:String>
+    <system:String x:Key="TreatmentPatientPhone">Telefon</system:String>
+
+
+    <!-- ====================================  Doctors Page  ==================================== -->
+    <system:String x:Key="DoctorsPageTitle">Informacije o stomatolozima</system:String>
+    <system:String x:Key="TotalDoctorsTextBlock">Ukupno stomatologa</system:String>
+
+    <!-- Table headers -->
+    <system:String x:Key="DoctorIdTableHeader">Doktor ID</system:String>
+    <system:String x:Key="DoctorFirstNameTableHeader">Ime</system:String>
+    <system:String x:Key="DoctorLastNameTableHeader">Prezime</system:String>
+    <system:String x:Key="DoctorSpecializationTableHeader">Specijalizacija</system:String>
+    <system:String x:Key="DoctorPhoneNumberTableHeader">Broj telefona</system:String>
+    <system:String x:Key="DoctorEmailTableHeader">Email</system:String>
+    <system:String x:Key="DoctorGenderTableHeader">Pol</system:String>
+
+
+    <!-- ====================================  Medicine Page  ==================================== -->
+    <system:String x:Key="MedicinePageTitle">Informacije o lijekovima</system:String>
+    <system:String x:Key="TotalMedicineTextBlock">Ukupno lijekova</system:String>
+    <system:String x:Key="AddMedicineButtonText">Dodaj lijek</system:String>
+
+    <!-- Table headers -->
+    <system:String x:Key="MedicineIdTableHeader">Lijek ID</system:String>
+    <system:String x:Key="MedicineNameTableHeader">Naziv</system:String>
+    <system:String x:Key="MedicineDaysOfUseTableHeader">Koliko dana</system:String>
+    <system:String x:Key="MedicineTimesPerDayTableHeader">Koliko puta na dan</system:String>
+    <system:String x:Key="MedicineExpirationDateTableHeader">Rok trajanja</system:String>
+
+    <!-- Add Medicine -->
+    <system:String x:Key="MedicineGroupBoxTitle">Naziv lijeka</system:String>
+    <system:String x:Key="MedicineDaysOfUse">Koliko dana?</system:String>
+    <system:String x:Key="MedicineUseTimesPerDay">Broj korištenja u danu?</system:String>
+    <system:String x:Key="MedicineExpirationDateCalendarHint">Rok trajanja</system:String>
+
+
+    <!-- ====================================  Payments Page  ==================================== -->
+    <system:String x:Key="PaymentTitleTextBlock">Informacije o plaćanjima</system:String>
+    <system:String x:Key="PaymentGenerateReceiptText">Generiši račun</system:String>
+    <system:String x:Key="PaymentPrintReceiptText">Printaj</system:String>
+    
+    <!-- Receipt Window -->
+    <system:String x:Key="ReceiptTitle">RAČUN • Dental Clinic</system:String>
+    <system:String x:Key="PatientName">Ime pacijenta</system:String>
+    <system:String x:Key="DateIssued">Izdato dana:</system:String>
+    <system:String x:Key="ReceiptNumber">Broj računa:</system:String>
+    <system:String x:Key="TotalAllCaps">UKUPNO</system:String>
+    <system:String x:Key="BillTo">Za:</system:String>
+    <system:String x:Key="ThanksForPayment">Hvala Vam na plaćanju!</system:String>
+    <system:String x:Key="NameOfTreatmentHeader">LIJEČENJE</system:String>
+    <system:String x:Key="PriceHeader">CIJENA</system:String>
+    <system:String x:Key="TreatedTeethHeader">LIJEČENI ZUBI</system:String>
+    <system:String x:Key="SubtotalHeader">MEĐUZBIR</system:String>
+    <system:String x:Key="TotalHeader">UKUPNO</system:String>
+
+
+
+
+    <!-- ====================================  SettingsPage  ====================================-->
+    <system:String x:Key="UserSettings">Korisnička podešavanja</system:String>
+
+    <system:String x:Key="UsernameTextBlock">Korisničko ime</system:String>
+    <system:String x:Key="FirstNameTextBlock">Ime</system:String>
+    <system:String x:Key="LastNameTextBlock">Prezime</system:String>
+    <system:String x:Key="PasswordTextBlock">Lozinka</system:String>
+    <system:String x:Key="RoleTextBlock">Uloga</system:String>
+    <system:String x:Key="EmailTextBlock">Email</system:String>
+    <system:String x:Key="SpecializationTextBlock">Specijalizacija</system:String>
+    <system:String x:Key="PhoneNumberTextBlock">Broj telefona</system:String>
+
+
+    <system:String x:Key="AppSettings">Aplikativna podešavanja</system:String>
+
+    <system:String x:Key="ThemeLabel">Tema</system:String>
+    <system:String x:Key="ChooseThemeHint">Izaberite temu</system:String>
+    <system:String x:Key="ThemeLight">Svijetla</system:String>
+    <system:String x:Key="ThemeDark">Tamna</system:String>
+    <system:String x:Key="ThemeBlue">Plava</system:String>
+
+    <system:String x:Key="LanguageLabel">Jezik</system:String>
+    <system:String x:Key="ChooseLanguageHint">Izaberite jezik</system:String>
+    <system:String x:Key="EnglishLang">Engleski</system:String>
+    <system:String x:Key="SerbianLang">Srpski</system:String>
+
+    <system:String x:Key="FontLabel">Font</system:String>
+    <system:String x:Key="ChooseFontHint">Izaberite font</system:String>
+
+
+    <!-- ///////////////////////////////////////////////////////////////////////// ADMINISTRATOR ///////////////////////////////////////////////////////////////////////// -->
+    <!-- ====================================  AdminMain Window  ==================================== -->
+    <system:String x:Key="AdminMainUsers">Korisnici</system:String>
+    <system:String x:Key="AdminMainStorage">Skladište</system:String>
+
+
+
+    <!-- ====================================  Users Page  ==================================== -->
+    <system:String x:Key="UsersPageTitle">Informacije o korisnicima</system:String>
+
+    <system:String x:Key="AddUserButtonText">Dodaj korisnika</system:String>
+    <system:String x:Key="UserIdTableHeader">Korisnik ID</system:String>
+    <system:String x:Key="UserFirstNameTableHeader">Ime</system:String>
+    <system:String x:Key="UserLastNameTableHeader">Prezime</system:String>
+    <system:String x:Key="UserEmailTableHeader">Email</system:String>
+    <system:String x:Key="UserRoleTableHeader">Uloga</system:String>
+    <system:String x:Key="UserIsActiveTableHeader">Aktivan</system:String>
+    <system:String x:Key="UserDetailsTableHeader">Detalji</system:String>
+    <system:String x:Key="UserUpdateTableHeader">Ažuriraj</system:String>
+    <system:String x:Key="UserDetailsButtonText">Detalji</system:String>
+
+    <!-- Add user window -->
+    <system:String x:Key="ChooseRoleHint">Izaberite ulogu</system:String>
+    <system:String x:Key="ChooseGenderHint">Izaberite pol</system:String>
+    <system:String x:Key="SalaryTextBlock">Plata</system:String>
+
+    <!-- Update user window -->
+    <system:String x:Key="UpdateUserTitle">Ažuriranje korisničkog naloga</system:String>
+    <system:String x:Key="UpdateUserButtonText">Ažuriraj</system:String>
+    <system:String x:Key="UserGeneralConfig">Generalna polja</system:String>
+    <system:String x:Key="DoctorSpecificConfig">Korisnički-specifična polja</system:String>
+
+
+    <!-- ====================================  Storage Page  ==================================== -->
+    <system:String x:Key="UpdateMedicineButtonText">Ažuriraj lijek</system:String>
+    <system:String x:Key="StorageActionsTableHeader">Akcije</system:String>
+</ResourceDictionary>
